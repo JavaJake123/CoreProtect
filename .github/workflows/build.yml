@@ -31,6 +31,6 @@ jobs:
         uses: actions/upload-artifact@v4.3.4
         with:
           name: CoreProtect-1.21
-          path: CoreProtect/CoreProtect/target/CoreProtect-22.4-shaded.jar
+          path: CoreProtect/target/CoreProtect-22.4-shaded.jar
         
           
